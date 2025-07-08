@@ -1,0 +1,12 @@
+
+**/pos_tagger.model
+
+**/*.model
+
+/venv
+
+/env
+
+env/
+
+venv/
